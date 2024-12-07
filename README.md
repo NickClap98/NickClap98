@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=NickClap98&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Mis Repositorios
-[![Repositorio Sistema Ventas](https://github-readme-stats.vercel.app/api/pin/?username=NickClap98&repo=Sistema-Ventas&theme=gotham)](https://github.com/NickClap98/Sistema-Ventas)
+[![Repositorio Sistema Ventas](https://github-readme-stats.vercel.app/api/pin/?username=NickClap98&repo=Sistema-Ventas&theme=github_dark)](https://github.com/NickClap98/Sistema-Ventas)
 [![Repositorio Juego Cubix Jump](https://github-readme-stats.vercel.app/api/pin/?username=NickClap98&repo=Cubix-Jump&theme=bear)](https://github.com/NickClap98/Cubix-Jump)
 
 [![Repositorios](https://img.shields.io/badge/GitHub-My_Repos-blue?style=for-the-badge&logo=github)](https://github.com/NickClap98?tab=repositories)
