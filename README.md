@@ -15,8 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NickClap98&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NickClap98&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Mis Repositorios [![Repositorios](https://img.shields.io/badge/GitHub-My_Repos-blue?style=for-the-badge&logo=github)](https://github.com/NickClap98?tab=repositories)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NickClap98&icon=0&color=0)](https://visitcount.itsvg.in)
