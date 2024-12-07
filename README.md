@@ -17,7 +17,9 @@
 
 ### 🔝 Mis Repositorios
  [![Repositorios](https://img.shields.io/badge/GitHub-My_Repos-blue?style=for-the-badge&logo=github)](https://github.com/NickClap98?tab=repositories)
-[![Último Repositorio](https://github-readme-stats.vercel.app/api/pin/?username=NickClap98&repo=Sistema-Ventas)](https://github.com/NickClap98/Sistema-Ventas)
+[![Repositorio Sistema Ventas](https://github-readme-stats.vercel.app/api/pin/?username=NickClap98&repo=Sistema-Ventas&theme=rose)](https://github.com/NickClap98/Sistema-Ventas)
+[![Repositorio Juego Cubix Jump](https://github-readme-stats.vercel.app/api/pin/?username=NickClap98&repo=Cubix-Jump)](https://github.com/NickClap98/Cubix-Jump)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NickClap98&icon=0&color=0)](https://visitcount.itsvg.in)
